@@ -212,7 +212,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ![Screenshot 2024-10-04 114609](https://github.com/user-attachments/assets/d9a7722b-4021-452a-8aa1-1744dddef93b)
 
-![Uploading Screenshot 2024-10-04 140740.png…]()
+![Screenshot 2024-10-04 140740](https://github.com/user-attachments/assets/a96fe61e-64c6-4271-a2fb-601c417b36af)
 
 ## RESULT :
 Thus, an LSTM-based model (bi-directional) for recognizing the named entities in the text is developed Successfully.
